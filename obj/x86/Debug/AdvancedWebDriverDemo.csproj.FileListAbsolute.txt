@@ -1,0 +1,10 @@
+/Users/JuanCMontoya/Projects/PluralSight/AdvancedWebDriverDemo/AdvancedWebDriverDemo/bin/Debug/AdvancedWebDriverDemo.exe
+/Users/JuanCMontoya/Projects/PluralSight/AdvancedWebDriverDemo/AdvancedWebDriverDemo/bin/Debug/AdvancedWebDriverDemo.pdb
+/Users/JuanCMontoya/Projects/PluralSight/AdvancedWebDriverDemo/AdvancedWebDriverDemo/bin/Debug/WebDriver.dll
+/Users/JuanCMontoya/Projects/PluralSight/AdvancedWebDriverDemo/AdvancedWebDriverDemo/bin/Debug/WebDriver.xml
+/Users/JuanCMontoya/Projects/PluralSight/AdvancedWebDriverDemo/AdvancedWebDriverDemo/obj/x86/Debug/AdvancedWebDriverDemo.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/PluralSight/AdvancedWebDriverDemo/AdvancedWebDriverDemo/obj/x86/Debug/AdvancedWebDriverDemo.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/PluralSight/AdvancedWebDriverDemo/AdvancedWebDriverDemo/obj/x86/Debug/AdvancedWebDriverDemo.exe
+/Users/JuanCMontoya/Projects/PluralSight/AdvancedWebDriverDemo/AdvancedWebDriverDemo/obj/x86/Debug/AdvancedWebDriverDemo.pdb
+/Users/JuanCMontoya/Projects/PluralSight/AdvancedWebDriverDemo/AdvancedWebDriverDemo/bin/Debug/WebDriver.Support.dll
+/Users/JuanCMontoya/Projects/PluralSight/AdvancedWebDriverDemo/AdvancedWebDriverDemo/bin/Debug/WebDriver.Support.xml
